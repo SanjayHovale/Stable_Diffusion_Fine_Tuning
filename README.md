@@ -1,6 +1,6 @@
 # Stable_Diffusion_Fine_Tuning
 
-# Training and Fine-Tuning Your Own Stable Diffusion Model Using Colab resources
+# Training and Fine-Tuning Your Own Stable Diffusion Model Using Colab Resources
 
 # This Repo Consist :
 1. Jupyter notebook with ene to end coding technique
